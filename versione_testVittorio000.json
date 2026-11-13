@@ -1,0 +1,12 @@
+{
+  "idCliente": "testVittorio000",
+  "nomeCognomeCliente": "Vittorio Test",
+  "nomeRistorante": "Ristorante Test",
+  "versionCode": 10000,
+  "versionName": "1.0.0",
+  "obbligatorio": false,
+  "urlApk": "https://raw.githubusercontent.com/vittorio1985git/ristorante-apk-rilascio/main/APK_testVittorio000.apk",
+  "note": "Nuove funzionalità e miglioramenti di stabilità.",
+  "noteVersione": "Nuove funzionalità e miglioramenti di stabilità.",
+  "dataRilascio": "13/11/2026 19:19"
+}
