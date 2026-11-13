@@ -1,0 +1,12 @@
+{
+  "idCliente": "fraBitonti001",
+  "nomeCognomeCliente": "Francesco Bitonti",
+  "nomeRistorante": "Gestione St James",
+  "versionCode": 10000,
+  "versionName": "1.0.0",
+  "obbligatorio": false,
+  "urlApk": "https://raw.githubusercontent.com/vittorio1985git/ristorante-apk-rilascio/main/APK_fraBitonti001.apk",
+  "note": "Nuove funzionalità e miglioramenti di stabilità.",
+  "noteVersione": "Nuove funzionalità e miglioramenti di stabilità.",
+  "dataRilascio": "13/11/2026 19:23"
+}
